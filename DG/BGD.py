@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import random
-
+#BGD(Batch gradient descent)批量梯度下降法：每次迭代使用所有的样本
 # 用y = Θ1*x1 + Θ2*x2来拟合下面的输入和输出
 # input1  1   2   5   4
 # input2  4   5   1   2
